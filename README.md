@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c9998605-af8a-4dd3-b9d5-c20e889a33fb" 
+       alt="ARPS Advanced Synergistic Oscillators & Filters"
+       width="60%" />
+</p>
+
+
 # ARPS Advanced Synergistic Oscillators & Filters
 **Originally created: September 07, 2020**
 *(Note: This script was created in 2020 but is being shared on GitHub on 2025-04-25)*
